@@ -8,7 +8,6 @@
 * Goto your folder in Visual Studio Code (Currently folder will be empty)
 * Open VS Code Terminal & run command npm init -y (It will create dependency management file package.json in above folder)
 * Command to install Cypress : npm install cypress (It will downlod and install cypress in the project folder. This step can be done earlier)
-* Command to open Cypress : npx cypress open (GUI for cypress will be displayed)
 
 # Steps to run tests:
 * Test script file should be created under 'integration' folder of cypress. (This folder structure will be available in project section)
