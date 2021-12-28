@@ -15,4 +15,4 @@
 * Test Result and time taken to complete tests will be displayed on cypress GUI.
 
 # Folder Structure
-* Cypress folder Contains regression tests for a login process, which requires a username and password.
+* Cypress folder Contains regression tests (LoginPageRegressionCases.js) for a login process, which requires a username and password.
